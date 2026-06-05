@@ -63,7 +63,7 @@ the hour from the timestamp and filtering accordingly.
 
 ## Execution Instructions
 
-## *Prerequisites*
+## *1. Prerequisites*
 
 Before starting the assignment, ensure you have the following software installed and properly configured on your machine:
 
@@ -109,7 +109,7 @@ Before starting the assignment, ensure you have the following software installed
 
 ## Errors and Resolutions
 
-COMPLETE IF NEEDED
+[COMPLETE IF NEEDED].
 
 
 
