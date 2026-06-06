@@ -54,6 +54,7 @@ outputs/
 
 Identifies the most listened genre for each user by joining listening logs
 with song metadata, grouping by user and genre, and ranking genres per user.  
+
 **Output:** 
 =============================================
 📊 TASK 1: User Favorite Genres (Sample)
@@ -74,6 +75,7 @@ only showing top 5 rows
 
 Calculates the average listening duration in seconds for each user across
 all their listening sessions.  
+
 **Output:** 
 =============================================
 ⏱️ TASK 2: Average Listen Time (Sample)
@@ -94,6 +96,7 @@ only showing top 5 rows
 Creates a custom Genre Loyalty Score for each user, defined as the percentage
 of their total listens that belong to their top genre. Users are ranked by
 this score and the top 10 are listed.  
+
 **Output:** 
 =============================================
 🏆 TASK 3: Genre Loyalty Scores - Top 10
@@ -119,6 +122,7 @@ this score and the top 10 are listed.
 
 Identifies users who listen to music between 12 AM and 5 AM by extracting
 the hour from the timestamp and filtering accordingly.  
+
 **Output:** 
 =============================================
 🦉 TASK 4: Night Owl Users (Sample)
